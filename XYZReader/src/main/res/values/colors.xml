@@ -16,17 +16,19 @@
 -->
 
 <resources>
-    <!-- Color palette is taken from:
-    https://material.io/guidelines/style/color.html#color-color-palette-->
-
-    <color name="red_500">#f44336</color>
-    <color name="red_700">#d32f2f</color>
-    <color name="red_A700">#d50000</color>
-    <color name="red_A400">#ff1744</color>
-    <color name="brown_500">#795548</color>
-    <color name="brown_900">#3e2723</color>
-    <color name="black_900">#212121</color>
 
     <color name="photo_placeholder">#03a9f4</color>
     <color name="ltgray">#ffe0e0e0</color>
+
+    <!-- https://www.materialpalette.com/red/blue -->
+    <color name="dark_primary_color">#d32f2f</color>
+    <color name="primary_color">#F44336</color>
+    <color name="light_primary_color">#FFCDD2</color>
+    <color name="accent_color">#448aff</color>
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#757575</color>
+    <color name="divider_color">#BDBDBD</color>
+
+
+
 </resources>
