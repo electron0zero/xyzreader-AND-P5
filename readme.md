@@ -21,12 +21,11 @@ Clone and import into Android Studio, That's it.
 <img src="https://raw.githubusercontent.com/electron0zero/xyzreader-AND-P5/master/Screenshots/phone-land2.png" height="300">
 </p>
 
-#### Tab
+#### Tablet
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/electron0zero/xyzreader-AND-P5/master/Screenshots/tab1.png" height="300">
 <img src="https://raw.githubusercontent.com/electron0zero/xyzreader-AND-P5/master/Screenshots/tab2.png" height="300">
 <img src="https://raw.githubusercontent.com/electron0zero/xyzreader-AND-P5/master/Screenshots/tab-land1.png" height="300">
 <img src="https://raw.githubusercontent.com/electron0zero/xyzreader-AND-P5/master/Screenshots/tab-land2.png" height="300">
-<img src="https://raw.githubusercontent.com/electron0zero/xyzreader-AND-P5/master/Screenshots/tab-land3.png" height="300">
 </p>
